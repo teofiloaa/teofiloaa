@@ -12,7 +12,7 @@
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/teofiloalfonseca) · [Email](mailto:teofiloandrade12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/teofiloalfonseca)
 
 <!---
 teofiloaa/teofiloaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
